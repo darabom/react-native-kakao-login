@@ -1,6 +1,6 @@
 {
   "name": "darabom-kakao-login",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native Module for Kakao Login Copyright by react-native-seoul",
   "main": "index.js",
   "types": "index.d.ts",
