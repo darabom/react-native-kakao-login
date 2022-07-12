@@ -1,7 +1,7 @@
 {
-  "name": "@react-native-seoul/kakao-login",
-  "version": "4.2.2",
-  "description": "React Native Module for Kakao Login",
+  "name": "kakao-login-darabom",
+  "version": "0.0.1",
+  "description": "React Native Module for Kakao Login Copyright by react-native-seoul",
   "main": "index.js",
   "types": "index.d.ts",
   "postinstall": "dooboolab-welcome postinstall",
