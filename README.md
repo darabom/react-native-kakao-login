@@ -8,3 +8,8 @@
 ## 수정사항
 
 getProfile에서 name property를 추가했습니다.
+
+## install
+```bash
+yarn add darabom-kakao-login
+```
